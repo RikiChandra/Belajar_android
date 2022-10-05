@@ -38,6 +38,7 @@
 
     <Button
         android:text="Update Data"
+        android:background="@drawable/new_button"
         android:id="@+id/update_data"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>

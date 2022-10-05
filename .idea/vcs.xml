@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
-    <mapping directory="$PROJECT_DIR$/RelativeAneh" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/siti-fatimah-ranap" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/siti-fatimah-ranap(backup)" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/siti-fatimah-ranap(lama)" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
   </component>
 </project>

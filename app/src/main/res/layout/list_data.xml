@@ -27,13 +27,19 @@
         <Button
             android:id="@+id/edit"
             android:text="Edit"
+            android:background="@drawable/new_button"
             android:layout_weight="1"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="10dp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"/>
         <Button
             android:id="@+id/hapus"
             android:text="Hapus"
-            android:layout_weight="1"
+            android:layout_marginTop="10dp"
+            android:textColor="@color/white"
+            android:background="@drawable/button_delete"
+            android:layout_weight="2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"/>
     </LinearLayout>

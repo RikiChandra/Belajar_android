@@ -39,6 +39,8 @@
     <Button
         android:text="Simpan Data"
         android:id="@+id/simpan_data"
+        android:textColor="@color/white"
+        android:background="@drawable/button_simpan"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"/>
 </LinearLayout>
